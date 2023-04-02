@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+let nameXXX = document.querySelectorAll(".list-item-title"); console.log(nameXXX); const openAI = Array.from(nameXXX); console.log(openAI); const aqsw = openAI.map(link => link.textContent).filter(sender => sender.includes('openAI')); console.log(aqsw);
