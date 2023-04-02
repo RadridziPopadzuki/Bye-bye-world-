@@ -6,8 +6,10 @@ class Main extends React.Component {
    render() {
       return (
          <div className='container' >
-            <main className='main' style={{fontSize: "1.5rem", background: "#435049",
-         borderRadius: "10px"}}>
+            <main className='main' style={{
+               fontSize: "1.5rem", background: "#435049",
+               borderRadius: "10px"
+            }}>
                <p>
                   This HTML file is a template.
                   If you open it directly in the browser, you will see an empty page.
@@ -18,6 +20,9 @@ class Main extends React.Component {
                   To begin the development, run `npm start` or `yarn start`.
                   To create a production bundle, use `npm run build` or `yarn build`.
                </p>
+               <blockquote>To begin the development, run `npm start` or `yarn start`.
+                  To create a production bundle, use `npm run build` or `yarn build`.
+               </blockquote>
             </main>
          </div>
       );
