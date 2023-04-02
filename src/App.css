@@ -7,16 +7,3 @@
   margin: 0 auto;
   background-color: #282c34;
 }
-
-.footer {
-  color: blanchedalmond;
-  padding: 0.5rem;
-  background-color: #203641;
-}
-
-
-.footer a {
-  text-decoration: none;
-  color: blanchedalmond;
-  cursor: pointer;
-}

@@ -1,0 +1,12 @@
+.footer {
+  color: blanchedalmond;
+  padding: 0.5rem;
+  background-color: #203641;
+}
+
+
+.footer a {
+  text-decoration: none;
+  color: blanchedalmond;
+  cursor: pointer;
+}
