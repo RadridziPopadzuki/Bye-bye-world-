@@ -20,7 +20,7 @@ class Main extends React.Component {
                   To begin the development, run `npm start` or `yarn start`.
                   To create a production bundle, use `npm run build` or `yarn build`.
                </p>
-               <blockquote>To begin the development, run `npm start` or `yarn start`.
+               <blockquote className='blockquote'>To begin the development, run `npm start` or `yarn start`.
                   To create a production bundle, use `npm run build` or `yarn build`.
                </blockquote>
             </main>
