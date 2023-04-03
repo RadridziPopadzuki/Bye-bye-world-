@@ -2,8 +2,8 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  flex: 1 1 auto;
   position: relative;
   margin: 0 auto;
   background-color: #282c34;
+  margin: 0;
 }
