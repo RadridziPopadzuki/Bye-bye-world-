@@ -20,7 +20,7 @@ class App extends React.Component {
   }
   render() {
     return (
-      <div className="App">
+      <div className="app">
         <Nav let navItem={this.props.navItem} />
         <div style={{ marginTop: "3rem", width: "40%", display: "flex", justifyContent: 'space-between', position: "relative", left: "30%" }}>
           <h1 style={{ color: "blanchedalmond" }}>{this.state.h1}</h1>
